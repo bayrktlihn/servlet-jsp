@@ -1,0 +1,13 @@
+
+p
+java:S1948"-Make "userService" transient or serializable.(‡Ê„‰8ÈĞÉ£õ1J$401fabab-a54b-412c-a8c8-e1a7775415e3
+t
+java:S1948"2Make "translateService" transient or serializable.(·ñ8ÉĞÉ£õ1J$a9e8dfbc-8c10-4155-90c0-2bedf913251d
+ƒ
+java:S1854 ";Remove this useless assignment to local variable "session".(îŒ¾…úÿÿÿÿ8öõ£õ1J$2bbfff7a-ec71-4813-bf1c-a22ba7b9630b
+›
+java:S1989"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ˆÂ÷Ïÿÿÿÿÿ8¯ğ£õ1J$ef0609d3-ff45-4e6a-bc15-adaf92276420
+›
+java:S1989!"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ˆÂ÷Ïÿÿÿÿÿ8¾âô£õ1J$ac0631fb-9578-43ef-bd9a-4e10e75cb961
+r
+java:S1068"/Remove this unused "userService" private field.(‡Ê„‰8ÍĞÉ£õ1J$042b8534-99bf-4403-af3f-d69c0c0544d6

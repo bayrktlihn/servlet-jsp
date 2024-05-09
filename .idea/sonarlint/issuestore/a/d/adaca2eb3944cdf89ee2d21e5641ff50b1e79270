@@ -1,0 +1,21 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8·àö¤õ1J$36fdbd33-1f74-42f3-a7d0-5398ae44f3ca
+y
+java:S1948"1Make "categoryService" transient or serializable.(Û”ûÎıÿÿÿÿ8ÃŠÇô1J$2fd9ae51-dc8e-4864-bc36-b336954f1caa
+„
+java:S1854"<Remove this useless assignment to local variable "homepage".(è§…Ëûÿÿÿÿ8¾àö¤õ1J$f3e284d0-3754-4fa7-a141-c6a1dec404a1
+u
+java:S1481"-Remove this unused "homepage" local variable.(è§…Ëûÿÿÿÿ8óÿö¤õ1J$9d846b37-123f-4bd9-a210-f7a909e99dea
+‰
+java:S1989"AHandle the "RuntimeException" thrown here in a "try/catch" block.(¯åÕøÿÿÿÿ8¿àö¤õ1J$b4d7b91a-7488-47f9-a458-f22babe971e8
+~	java:S125"<This block of commented-out lines of code should be removed.(®ºËÊ8öÿö¤õ1J$230185fc-ad81-4564-9e85-f97368bc42c1
+“
+java:S1128"KRemove this unused import 'io.bayrktlihn.bookstorewebsite.dto.CategoryDto'.(ºÔÓÁúÿÿÿÿ8öÿö¤õ1J$64a49578-1f96-443a-91c5-b730b66c2d23
+
+java:S1128"KRemove this unused import 'io.bayrktlihn.bookstorewebsite.entity.Category'.(°”É8¬†™Çô1J$f60d2d9b-ee1c-44bd-a514-0cf8f324b7a3
+†
+java:S1128">Remove this unused import 'jakarta.servlet.RequestDispatcher'.(•Üè•ıÿÿÿÿ8÷ÿö¤õ1J$fc1421d1-52bc-4992-8fb0-2f921e30111a
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8÷ÿö¤õ1J$10bebcfa-9607-440f-be4d-af8d87cd20b9
+{
+java:S1068"3Remove this unused "categoryService" private field.(Û”ûÎıÿÿÿÿ8÷ÿö¤õ1J$3e43f88c-8db3-4cf7-ba2c-b18d9202bcff
